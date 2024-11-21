@@ -17,18 +17,36 @@ Please refer screenshots for more details and UI of app.
 
 ![picture](Screenshots/invalidLogin.png)
 
-> **Login and ProgressBar :**   ![picture](Screenshots/progressbarLogin.png)
 
-Main Menu : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/mainMenu.png)
+> **Login and ProgressBar :**
 
-Admin Paper Settings Menu : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/AdminPaperSettingMenu.png)
+![picture](Screenshots/progressbarLogin.png)
 
-About Game (User) : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/About.png)
 
-Level 1 Starts : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/Level1Starts.png)
+> **Main Menu :**
 
-Correct Ans and Badge Progress : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/correctAnsBadgeProgress.png)
+![picture](Screenshots/mainMenu.png)
 
-Wrong Ans , No badge progress : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/wrongAnsNoBadgeProgress.png)
+> **Admin Paper Settings Menu :** 
 
-Bronze Badge Achievement : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/bronzeBadgeAchieved.png)
+![picture](Screenshots/AdminPaperSettingMenu.png)
+
+> **About Game (User) :** 
+
+![picture](Screenshots/About.png)
+
+> **Level 1 Starts :** 
+
+![picture](Screenshots/Level1Starts.png)
+
+> **Correct Ans and Badge Progress :** 
+
+![picture](Screenshots/correctAnsBadgeProgress.png)
+
+> **Wrong Ans , No badge progress :** 
+
+![picture](Screenshots/wrongAnsNoBadgeProgress.png)
+
+> **Bronze Badge Achievement :** 
+
+![picture](Screenshots/bronzeBadgeAchieved.png)
