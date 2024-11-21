@@ -11,7 +11,7 @@ Papers can be created directly using the application by admin. And user can then
 
 Completely created from scratch using Turbo C++ and technologies like Data Structures and Object Oriented Programming in C++.
 
-Please refer screenshots for more details and UI of app. 
+Details:
 
 > **Invalid Login** : 
 
