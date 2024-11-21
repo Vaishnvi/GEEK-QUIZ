@@ -13,9 +13,11 @@ Completely created from scratch using Turbo C++ and technologies like Data Struc
 
 Please refer screenshots for more details and UI of app. 
 
-Invalid Login : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/invalidLogin.png)
+> **Invalid Login** : 
 
-Login and ProgressBar : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/progressbarLogin.png)
+![picture](Screenshots/invalidLogin.png)
+
+> **Login and ProgressBar :**   ![picture](Screenshots/progressbarLogin.png)
 
 Main Menu : ![picture](https://github.com/Vaishnvi/GEEK-QUIZ/tree/master/Screenshots/mainMenu.png)
 
